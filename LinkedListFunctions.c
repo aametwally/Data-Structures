@@ -120,7 +120,7 @@ void AddNodeAfter(node* head, int n, int value)
 }
 
 
-/// This method delete the first node of the list
+/// This method deletes the first node of the list
 node* DelNodeFront(node* head)
 {
 	// test if the list is empty
@@ -138,7 +138,7 @@ node* DelNodeFront(node* head)
 }
 
 
-/// This method delete the last node of the list
+/// This method deletes the last node of the list
 void DelNodeEnd(node* head)
 {
 	// test if the list is empty
@@ -157,7 +157,7 @@ void DelNodeEnd(node* head)
 }
 
 
-/// This method delete the a node after n nodes of the list
+/// This method deletes the a node after n nodes of the list
 void DelNodeAfter(node* head, int n)
 {
 	node* temp=head;
