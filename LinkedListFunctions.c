@@ -1,4 +1,4 @@
-/// ********** This source code is to chow the main functions of Linked list **********//
+/// ********** This source code is to show the main functions of Linked list **********//
 /// ********** The source code has been prepared for DataStructure course, Biomedical Engineering, Cairo University **********//
 /// ********** Author: Ahmed Abdelhadi **********//
 
