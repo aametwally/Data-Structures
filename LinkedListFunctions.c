@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 struct node
 {
 	int data;
@@ -31,7 +30,7 @@ int main ()
 	printf("\n\n");
 	
 	
-	head=AddNodeFront(head,20);
+	head=AddNodeFront(head, '10');
 	Traverse(head);
 	printf("\n\n");
 	
@@ -96,6 +95,7 @@ void AddNodeEnd(node* head, int value)
 	temp->next=(node*)malloc(sizeof(node));
 	temp=temp->next;
 	temp->data=value;
+	(temp->next)->next=NULL;
 }
 
 
