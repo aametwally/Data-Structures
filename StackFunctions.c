@@ -1,4 +1,4 @@
-/// ********** This source code is to show the stack functions **********//
+/// ********** This source code is to clarify how the stack works **********//
 /// ********** The source code has been prepared for DataStructure course, Biomedical Engineering, Cairo University **********//
 /// ********** Author: Ahmed Abdelhadi **********//
 
@@ -37,7 +37,7 @@ int main ()
 	
 }
 
-
+/// add new element to the stack "add from the top"
 void push (int* stack, int value)
 {
 	if (top+1 >= s)
@@ -47,6 +47,8 @@ void push (int* stack, int value)
 }
 
 
+
+/// remove element out of the stack "remove from the top"
 int pop (int* stack)
 {
 	if (top<0)
@@ -57,6 +59,9 @@ int pop (int* stack)
 	}
 }
 
+
+
+/// print all stack elements 
 void StackTraverse (int* stack)
 {
 	int temp=top;
