@@ -1,4 +1,4 @@
-/// ********** This source code is to show the main functions of Linked list **********//
+/// ********** This source code is to show the main functions of the singly Linked list **********//
 /// ********** The source code has been prepared for DataStructure course, Biomedical Engineering, Cairo University **********//
 /// ********** Author: Ahmed Abdelhadi **********//
 
@@ -30,7 +30,7 @@ int main ()
 	printf("\n\n");
 	
 	
-	head=AddNodeFront(head, '10');
+	head=AddNodeFront(head, 20);
 	Traverse(head);
 	printf("\n\n");
 	
@@ -95,7 +95,7 @@ void AddNodeEnd(node* head, int value)
 	temp->next=(node*)malloc(sizeof(node));
 	temp=temp->next;
 	temp->data=value;
-	(temp->next)->next=NULL;
+	temp->next=NULL;
 }
 
 
