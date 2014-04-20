@@ -25,9 +25,10 @@ int main ()
 	while(word[i]!=NULL)
 	{
 		if (word[i]=='(')
-		push(stack, word[i]);
+			push(stack, word[i]);
 		else if(word[i]==')')
-		pop(stack);
+			pop(stack);
+		
 		i++;
 	}
 	
