@@ -33,9 +33,9 @@ int main ()
 	}
 	
 	if (top>-1)
-	printf("There are opened parentheses that haven't closed\n");
+		printf("There are opened parentheses that haven't closed\n");
 	else if(top==-1)
-	printf("the parentheses are OK\n");
+		printf("the parentheses are OK\n");
 }
 
 
