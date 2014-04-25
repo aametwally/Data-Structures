@@ -25,16 +25,17 @@ int main ()
 	while(word[i]!=NULL)
 	{
 		if (word[i]=='(')
-		push(stack, word[i]);
+			push(stack, word[i]);
 		else if(word[i]==')')
-		pop(stack);
+			pop(stack);
+		
 		i++;
 	}
 	
 	if (top>-1)
-	printf("There are opened parentheses that haven't closed\n");
+		printf("There are opened parentheses that haven't closed\n");
 	else if(top==-1)
-	printf("the parentheses are OK\n");
+		printf("the parentheses are OK\n");
 }
 
 
