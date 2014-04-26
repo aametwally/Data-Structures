@@ -11,7 +11,7 @@
 #define MaxSize 5+1
 
 
-/// We put our initials to 0
+/// initialization of front and rear with 0
 /// note that the first index to insert in is 1.
 int front= 0;
 int rear= 0;
