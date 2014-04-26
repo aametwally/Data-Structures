@@ -107,7 +107,7 @@ int queueSize()
 	return rear-front;
 }
 
-/// print all stack elements 
+/// print all queue elements 
 void queueTraverse (int* queue)
 {
 	int temp=front+1;
