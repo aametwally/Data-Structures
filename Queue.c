@@ -1,6 +1,16 @@
-/// ********** Queue source code **********//
-/// ********** The source code has been prepared for DataStructure course, Biomedical Engineering, Cairo University **********//
-/// ********** Author: Ahmed Abdelhadi **********///
+///**********************************************************************///
+///******     	   					Queue	     		   	 	   ******///
+///******  Title: Insert, Traverse, Delete, and GetSize Functions  ******///
+///******                  			                 		 	   ******///
+///******  		     	 [DataStructure Course, 2014]  			   ******///
+///******		   Biomedical Engineering, Cairo University	 	   ******///
+///**********************************************************************///
+///*                                                             	    *///
+///*   		  	 	Copyright by Ahmed Abdelhadi (C) 2014  	   	  	    *///
+///*                                                               		*///
+///*              	 Please report bugs & suggestions to              	*///
+///*                   <ahmed.abdelhady@eng.cu.edu.eg>               	*///
+///**********************************************************************///
 
 #include <stdio.h>
 #include <stdlib.h>
