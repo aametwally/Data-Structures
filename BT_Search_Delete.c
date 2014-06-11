@@ -1,15 +1,15 @@
 ///*****************************************************************///
-///********     	   			Binary Tree     		    ********///
-///********  		Title: Search and Delete Functions  	********///
-///********                  			                 	********///
-///********  		   [DataStructure Course, 2014]  		********///
-///********		Biomedical Engineering, Cairo University	********///
+///********    			Binary Tree     	    ********///
+///********    	    Title: Search and Delete Functions      ********///
+///********                  			            ********///
+///********  	       [DataStructure Course, 2014]  	    ********///
+///********	Biomedical Engineering, Cairo University    ********///
 ///*****************************************************************///
 ///*                                                               *///
-///*   		  	 Copyright by Ahmed Abdelhadi (C) 2014  	   	   *///
+///*   		 Copyright by Ahmed Abdelhadi (C) 2014  	   *///
 ///*                                                               *///
-///*              Please report bugs & suggestions to              *///
-///*                 <ahmed.abdelhady@eng.cu.edu.eg>               *///
+///*              Please report bugs & suggestions to:             *///
+///*                <ahmed.abdelhady@eng.cu.edu.eg>                *///
 ///*****************************************************************///
 
 #include <stdio.h>
