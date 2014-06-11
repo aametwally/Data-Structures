@@ -248,6 +248,8 @@ void insertExistingTreeToBinaryTree(bt_node* node)
 		insertExistingTreeToBinaryTree(node->lchild);
 		insertExistingTreeToBinaryTree(node->rchild);
 		
+		
+		/// We can declare p and q globally to reduce memory consumption.
 		struct bt_node *p,*q;
 	
 		
