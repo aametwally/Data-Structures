@@ -1,6 +1,16 @@
-/// ********** Check Parentheses using Stack data structure **********//
-/// ********** The source code has been prepared for DataStructure course, Biomedical Engineering, Cairo University **********//
-/// ********** Author: Ahmed Abdelhadi **********///
+///**********************************************************************///
+///******     	   					Stack    	 		   	 	   ******///
+///******  			   Title: Check Parentheses problem 		   ******///
+///******                  			                 		 	   ******///
+///******  		     	 [DataStructure Course, 2014]  			   ******///
+///******		   Biomedical Engineering, Cairo University	 	   ******///
+///**********************************************************************///
+///*                                                             	    *///
+///*   		  	 	Copyright by Ahmed Abdelhadi (C) 2014  	   	  	    *///
+///*                                                               		*///
+///*              	 Please report bugs & suggestions to              	*///
+///*                   <ahmed.abdelhady@eng.cu.edu.eg>               	*///
+///**********************************************************************///
 
 #include <stdio.h>
 #include <stdlib.h>
