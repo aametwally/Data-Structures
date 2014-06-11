@@ -1,15 +1,15 @@
 ///**********************************************************************///
-///********     	   		   Doubly Linked List     		   	 ********///
+///********     	    Doubly Linked List     		 ********///
 ///********     Title: Insert, Traverse and Delete Functions  	 ********///
-///********                  			                 		 ********///
-///********  		     [DataStructure Course, 2014]  			 ********///
-///********		   Biomedical Engineering, Cairo University	 	 ********///
+///********                  			       		 ********///
+///********  		 [DataStructure Course, 2014]  		 ********///
+///********	  Biomedical Engineering, Cairo University	 ********///
 ///**********************************************************************///
-///*                                                             	    *///
-///*   		  	 	Copyright by Ahmed Abdelhadi (C) 2014  	   	  	    *///
-///*                                                               		*///
-///*              	 Please report bugs & suggestions to              	*///
-///*                   <ahmed.abdelhady@eng.cu.edu.eg>               	*///
+///*                                                             	*///
+///*   		   Copyright by Ahmed Abdelhadi (C) 2014        	*///
+///*                                                          		*///
+///*                Please report bugs & suggestions to              	*///
+///*                  <ahmed.abdelhady@eng.cu.edu.eg>               	*///
 ///**********************************************************************///
 
 #include <stdio.h>
